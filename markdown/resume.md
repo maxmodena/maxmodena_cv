@@ -5,7 +5,7 @@ Massimiliano Modena
 
 -------------------         ----------------------------------
 Via dei Salici 4,                        maxmodena@hotmail.com
-20090, Cesano Boscone       massimiliano.modena@binnovation.it
+20090, Cesano Boscone       
 Milano                                       +39.349.15.25.304
 -------------------         ----------------------------------
 
