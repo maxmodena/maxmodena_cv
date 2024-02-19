@@ -65,7 +65,8 @@ Ho continuato a seguire principalmente il cliente in ambito GDO che seguivo già
 :   In Binnovation ho seguito anche attività relative ad altri clienti nei seguenti ambiti
 
     * cliente in ambito retail, per la gestione del datawarehouse e delle attività collegate,basate su un ambiente SqlServer e SSIS 
-    * cliente in ambito GDO, per la gestione del datawarehouse implementato su db Vertica con sistema di integrazione dati basato su piattaforma Stambia Data Integration (poi nel frattempo diventata Semarchy XDi)
+    * cliente in ambito GDO, per la gestione del datawarehouse dello scontrinato, implementato su db Vertica con sistema di integrazione dati basato su piattaforma Stambia Data Integration (poi nel frattempo diventata Semarchy XDi)
+    * cliente n ambito assicurativo per la gestione del repository di alimentazione di QlikSense, basato su un datawarehouse in modello DataVault 2 e datamart dimensionali, con integrazione dati tramite SSIS e TFS
 
 2006-2018
 :   **Senior Analyst & Project Coordinator @Softquattro**
@@ -168,10 +169,10 @@ Progettazione Datawarehouse
 Infrastrutture e metodologie DevOps
 :   Ho maturato competenze di tipo **DevOps** effettuando la progettazione di un ambiente basato su
 
+    *   Installazione, configurazione ed implementazione di container **Docker**, anche tramite **docker-compose**
     *   Installazione e configurazione di un cluster **Kubernetes** **MicroK8s** su server linux Ubuntu
     *   Installazione e configurazione di pipeline **ArgoCD** per Kubernetes
-    *   Installazione e configurazione di sistemi di monitoraggio k8s/Docker basati su **Portainer**
-    *   Installazione, configurazione ed implementazione di container **Docker**
+    *   Installazione e configurazione di sistemi di monitoraggio k8s/Docker basati su **Portainer**       
     *   Installazione, configurazione ed utilizzo di **pipeline di Continuous Delivery** con **Jenkins**
     *   Utilizzo correntemente **Git** collegato ad un repository centrale su **GitHub**
     *   Ho esperienza di utilizzo di **TFS** su ambienti dei clienti come tool di source control management
@@ -255,10 +256,22 @@ Interests:
     * [Medium]
     * [InfoQ] 
     * [Tecnology Radar]
+    * [Tom's HW]
+
+:   Progetti collaterali
+
+    *   Autenticazione ed autorizzazione app basata su JWT
+    *   Utilizzo del protocollo gRPC per la comunicazione tra microservizi nodejs
+    *   Automazione testing pl/sql con utPlSql
+    *   Analisi di un cluster iperconvergente con Proxmox VE
+    *   Esplorazione del sistema di integrazione API Boomi
+    *   Linguaggio documentale di markdown per GitHub e Mulesoft
+    *   Linguaggi di formattazione documenti LaTeX, TeX
 
 [Medium]: https://medium.com/
 [InfoQ]: https://infoq.com
 [Tecnology Radar]: https://www.thoughtworks.com/radar
+[Tom's HW]: https://www.tomshw.it/
 
 ----
 
