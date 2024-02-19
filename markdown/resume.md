@@ -53,7 +53,7 @@ Education
 Experience
 ----------
 
-2018-2023   
+2018-2024   
 :   **Senior Consultant & Project coordinator @Binnovation**
 
 :   A seguito della confluenza di Softquattro in Binnovation collaboro da Marzo 2018 con quest'ultima come Consulente Senior in ambito BI.
@@ -192,6 +192,8 @@ Courses and certifications
 
 Binnovation
 :   
+* 02/2024 - Anypoint Platform Development: Production-Ready Integrations - c/o  Salesforce
+* 01/2024 - Anypoint Platform Development: Production-Ready Development Practices - c/o  Salesforce
 * 12/2023 - Anypoint Platform Development: API Design with RAML - c/o  Salesforce
 * 11/2023 - Anypoint Platform Development: DataWeave - c/o  Salesforce
 * 03/2023 - Anypoint Platform Development: Fundamentals - c/o  Salesforce
