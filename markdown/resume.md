@@ -21,7 +21,7 @@ Milano                                       +39.349.16.35.304
 Mi occupo principalmente dello sviluppo e gestione di progetti di BI sia per la parte di reportistica (principalmente SAP BO 4.2; Qlikview 11.2 e 12, saltuariemente PowerBI e MicroStrategy), sia per la progettazione di Datawarehouse e Sistemi di Integrazione in ambiente Oracle, SqlServer o Vertica, sia per l'installazione e configurazione di Qlikview Server/Publisher 11.2 . 
 Possiedo ottime capacità di individuazione, analisi e risoluzione delle criticità tecniche ed architetturali, ed ottime conoscenze dei principali RDBMS Sql (Oracle11g-21c/SqlServer) e NoSql (MongoDB); 
 
-Utilizzo le piattaforme di integrazione SSIS, Semarchy xDI e Mulesoft Anypoint Platform; ho avuto anche l'occasione di valutare ed esplorare Talend Data Integration ed Alterix Designer. Oltre a queste utilizziamo una nostra piattaforma di integrazione e schedulazione di tipo ELT che effettua le trasformazioni personalizzandole su Oracle o SqlServer in PL/SQL o T-SQL.
+Utilizzo le piattaforme di integrazione SSIS, Semarchy xDI e Mulesoft Anypoint Platform; ho avuto anche l'occasione di valutare ed esplorare Talend Data Integration ed Alterix Designer. Oltre a queste utilizziamo una nostra piattaforma di integrazione e schedulazione di tipo ELT che effettua le trasformazioni personalizzandole su Oracle o SqlServer in PL/SQL o T-SQL massimizzando le prestazioni ottenibili.
 
 Utilizzo correntemente Git/GitHub per il versioning delle implementazioni dei progetti gestiti in prima persona, e TFS qualora già utilizzato dai clienti.
 
