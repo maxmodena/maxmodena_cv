@@ -18,10 +18,10 @@ Milano                                       +39.349.16.35.304
 >  FullStack Javascript Architect
 
 **Business Intelligence**\
-Mi occupo principalmente dello sviluppo e gestione di progetti di BI sia per la parte di reportistica (SAP BO 4.2; Qlikview 11.2 e 12, PowerBI e MicroStrategy), sia per la progettazione di Datawarehouse e Sistemi di Integrazione in ambiente Oracle, SqlServer o Vertica, sia per l'installazione e configurazione di Qlikview Server/Publisher 11.2 . 
+Mi occupo principalmente dello sviluppo e gestione di progetti di BI sia per la parte di reportistica (principalmente SAP BO 4.2; Qlikview 11.2 e 12, saltuariemente PowerBI e MicroStrategy), sia per la progettazione di Datawarehouse e Sistemi di Integrazione in ambiente Oracle, SqlServer o Vertica, sia per l'installazione e configurazione di Qlikview Server/Publisher 11.2 . 
 Possiedo ottime capacità di individuazione, analisi e risoluzione delle criticità tecniche ed architetturali, ed ottime conoscenze dei principali RDBMS Sql (Oracle11g-21c/SqlServer) e NoSql (MongoDB); 
 
-Utilizzo le piattaforme di integrazione SSIS, Semarchy xDI e Mulesoft Anypoint Platform; ho avuto anche l'occasione di valutare ed esplorare Talend Data Integration ed Alterix Designer.
+Utilizzo le piattaforme di integrazione SSIS, Semarchy xDI e Mulesoft Anypoint Platform; ho avuto anche l'occasione di valutare ed esplorare Talend Data Integration ed Alterix Designer. Oltre a queste utilizziamo una nostra piattaforma di integrazione e schedulazione di tipo ELT che effettua le trasformazioni personalizzandole su Oracle o SqlServer in PL/SQL o T-SQL.
 
 Utilizzo correntemente Git/GitHub per il versioning delle implementazioni dei progetti gestiti in prima persona, e TFS qualora già utilizzato dai clienti.
 
@@ -32,7 +32,7 @@ Interesse corrente: utilizzo del framework gRPC per la comunicazione tra microse
 **DevOps**\
 Ho buone conoscenze di virtualizzazione di nodi Linux o Windows, ed esperienza di progettazione di Docker Containers gestiti con Docker-Compose e di Cluster Kubernetes su più nodi virtuali Linux. Ho progettato un cluster Microk8s in HA su nodi virtuali Ubuntu, con configurazione di  MongoDB in Sharding/ReplicaSet sul cluster k8s, utilizzato per l'implementazione e configurazione di applicazioni su pod in autoscaling composti internamente da container multipli. 
 Utilizzo correntemente db Oracle19c e 23c rilasciati su Docker. 
-Ho esperienza di implementazione di pipelines di CI/CD (per apps containerizzate) con GitHub Actions ed ArgoCD, e di una pipeline di CD relativa ad attività plsql/oracle su Jenkins per il rilascio automatico in ambiente di sviluppo/integrazione.
+Ho implementato alcune pipelines di CI/CD (per apps containerizzate) con GitHub Actions ed ArgoCD, ed una pipeline di CD relativa ad attività plsql/oracle su Jenkins per il rilascio automatico in ambiente di sviluppo/integrazione tramite webhook.
 
 
 ----
@@ -57,7 +57,7 @@ Experience
 :   **Senior Consultant & Project coordinator @Binnovation**
 
 :   A seguito della confluenza di Softquattro in Binnovation collaboro da Marzo 2018 con quest'ultima come Consulente Senior in ambito BI.
-Ho continuato a seguire principalmente il cliente in ambito GDO che seguivo già in Softquattro, gestendo le attività legate all' AM e quelle legate a progetti di evolutiva, lungo tutta la filiera dalla preparazione delle offerte all'analisi funzionale e tecnica fino alle implementazioni. 
+Ho continuato a seguire principalmente il cliente in ambito GDO che seguivo già in Softquattro, gestendo le attività legate all' AM e quelle legate ai progetti di evolutiva lungo tutta la filiera, dalla preparazione delle offerte all'analisi funzionale e tecnica fino alle implementazioni ed ai rilasci finali. 
 
     * Per la gestione dei ticket di AM ho sviluppoato una webapp full stack javascript, e per l'acquisizione del flusso degli scontrini in arrivo dai punti vendita ho progettato un set di webservice su Nodejs , con l'utilizzo di un buffer MongoDB per la traduzione dei dati da documenti JSON ed il trasporto sul DWH Oracle finale. 
     * Negli ultimi anni ho implementato un sistema di gestione del codice sorgente basato su git/github, ho introdotto l'utilizzo di container docker ed ho proposto l'utilizzo di cluster kubernetes per la gestione dei webservices degli scontrini.
@@ -193,14 +193,14 @@ Courses and certifications
 
 Binnovation
 :   
-* 02/2024 - Anypoint Platform Development: Production-Ready Integrations - c/o  Salesforce
-* 01/2024 - Anypoint Platform Development: Production-Ready Development Practices - c/o  Salesforce
-* 12/2023 - Anypoint Platform Development: API Design with RAML - c/o  Salesforce
-* 11/2023 - Anypoint Platform Development: DataWeave - c/o  Salesforce
-* 03/2023 - Anypoint Platform Development: Fundamentals - c/o  Salesforce
+* 02/2024 - Anypoint Platform Development: Production-Ready Integrations - c/o  Salesforce (in inglese)
+* 01/2024 - Anypoint Platform Development: Production-Ready Development Practices - c/o  Salesforce (in inglese)
+* 12/2023 - Anypoint Platform Development: API Design with RAML - c/o  Salesforce (in inglese)
+* 11/2023 - Anypoint Platform Development: DataWeave - c/o  Salesforce (in inglese)
+* 03/2023 - Anypoint Platform Development: Fundamentals - c/o  Salesforce (in inglese)
 * 12/2022 - gRPC MasterClass Build Modern API and Microservices in Nodejs
 * 09/2022 - Microsoft Educator Center - Introduzione al controllo della versione con Git
-* 04/2022 - Certified Kubernetes Application Developer
+* 04/2022 - corso 'Certified Kubernetes Application Developer'
 * 03/2022 - Mongodb University - M220JS MongoDB for JavaScript Developers
 * 03/2022 - Mongodb University - M103 Basic Cluster Administration
 * 02/2022 - Mongodb University - M100 MongoDB for SQL Pros
