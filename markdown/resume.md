@@ -59,7 +59,7 @@ Experience
 :   A seguito della confluenza di Softquattro in Binnovation collaboro da Marzo 2018 con quest'ultima come Consulente Senior in ambito BI.
 Ho continuato a seguire principalmente il cliente in ambito GDO che seguivo già in Softquattro, gestendo le attività legate all' AM e quelle legate ai progetti di evolutiva lungo tutta la filiera, dalla preparazione delle offerte all'analisi funzionale e tecnica fino alle implementazioni ed ai rilasci finali. 
 
-    * Per la gestione dei ticket di AM ho sviluppoato una webapp full stack javascript, e per l'acquisizione del flusso degli scontrini in arrivo dai punti vendita ho progettato un set di webservice su Nodejs , con l'utilizzo di un buffer MongoDB per la traduzione dei dati da documenti JSON ed il trasporto sul DWH Oracle finale. 
+    * Per la gestione dei ticket di AM ho sviluppato una webapp full stack javascript, e per l'acquisizione del flusso degli scontrini in arrivo dai punti vendita ho progettato un set di webservice su Nodejs , con l'utilizzo di un buffer MongoDB per la traduzione dei dati da documenti JSON ed il trasporto sul DWH Oracle finale. 
     * Negli ultimi anni ho implementato un sistema di gestione del codice sorgente basato su git/github, ho introdotto l'utilizzo di container docker ed ho proposto l'utilizzo di cluster kubernetes per la gestione dei webservices degli scontrini.
 
 :   In Binnovation ho seguito anche attività relative ad altri clienti nei seguenti ambiti
