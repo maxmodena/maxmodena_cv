@@ -66,7 +66,7 @@ Ho continuato a seguire principalmente il cliente in ambito GDO che seguivo già
 
     * cliente in ambito retail, per la gestione del datawarehouse e delle attività collegate,basate su un ambiente SqlServer e SSIS 
     * cliente in ambito GDO, per la gestione del datawarehouse dello scontrinato, implementato su db Vertica con sistema di integrazione dati basato su piattaforma Stambia Data Integration (poi nel frattempo diventata Semarchy XDi)
-    * cliente n ambito assicurativo per la gestione del repository di alimentazione di QlikSense, basato su un datawarehouse in modello DataVault 2 e datamart dimensionali, con integrazione dati tramite SSIS e TFS
+    * cliente in ambito assicurativo per la gestione del repository di alimentazione di QlikSense, basato su un datawarehouse in modello DataVault 2 e datamart dimensionali, con integrazione dati tramite SSIS e TFS
 
 2006-2018
 :   **Senior Analyst & Project Coordinator @Softquattro**
@@ -277,5 +277,5 @@ Interests:
 
 ----
 
-> <maxmodena@hotmail.com> • +39 349 15 35 304 • \
+> <maxmodena@hotmail.com> • +39 349 16 35 304 • \
 > Via dei Salici 4, 20090 Cesano Boscone, Milano
