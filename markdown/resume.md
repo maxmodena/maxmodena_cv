@@ -53,7 +53,7 @@ Education
 Experience
 ----------
 
-2018-2024   
+2018-2024 (in corso)   
 :   **Senior Consultant & Project coordinator @Binnovation**
 
 :   A seguito della confluenza di Softquattro in Binnovation collaboro da Marzo 2018 con quest'ultima come Consulente Senior in ambito BI.
