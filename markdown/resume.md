@@ -18,7 +18,7 @@ Milano                                       +39.349.16.35.304
 >  FullStack Javascript Architect
 
 **Business Intelligence**\
-Mi occupo principalmente dello sviluppo e gestione di progetti di BI sia per la parte di reportistica (principalmente SAP BO 4.2; Qlikview 11.2 e 12, saltuariemente PowerBI e MicroStrategy), sia per la progettazione di Datawarehouse e Sistemi di Integrazione in ambiente Oracle, SqlServer o Vertica, sia per l'installazione e configurazione di Qlikview Server/Publisher 11.2 . 
+Mi occupo principalmente dello sviluppo e gestione di progetti di BI sia per la parte di reportistica (principalmente SAP BO 4.2; Qlikview 11.2 e 12, saltuariamente PowerBI e MicroStrategy), sia per la progettazione di Datawarehouse e Sistemi di Integrazione in ambiente Oracle, SqlServer o Vertica, sia per l'installazione e configurazione di Qlikview Server/Publisher 11.2 . 
 Possiedo ottime capacità di individuazione, analisi e risoluzione delle criticità tecniche ed architetturali, ed ottime conoscenze dei principali RDBMS Sql (Oracle11g-21c/SqlServer) e NoSql (MongoDB); 
 
 Utilizzo le piattaforme di integrazione SSIS, Semarchy xDI e Mulesoft Anypoint Platform; ho avuto anche l'occasione di valutare ed esplorare Talend Data Integration ed Alterix Designer. Oltre a queste utilizziamo una nostra piattaforma di integrazione e schedulazione di tipo ELT che effettua le trasformazioni personalizzandole su Oracle o SqlServer in PL/SQL o T-SQL massimizzando le prestazioni ottenibili.
@@ -39,8 +39,8 @@ Ho implementato alcune pipelines di CI/CD (per apps containerizzate) con GitHub 
 
 
 
-Education
----------
+Educazione
+----------
 
 1990-1998   
 :   **Corso di Laurea in Ingegneria Elettronica – indirizzo Microelettronica**; Politecnico di Milano – Facolta’ di Ingegneria
@@ -50,10 +50,10 @@ Education
 :   **Diploma di Maturita’ scientifica**; Liceo Scientifico G.B.Vico – 20094 Corsico –Milano
 
 
-Experience
-----------
+Esperienza Lavorativa
+---------------------
 
-2018-2024 (in corso)   
+2018-2024 (in corso)  
 :   **Senior Consultant & Project coordinator @Binnovation**
 
 :   A seguito della confluenza di Softquattro in Binnovation collaboro da Marzo 2018 con quest'ultima come Consulente Senior in ambito BI.
@@ -61,6 +61,7 @@ Ho continuato a seguire principalmente il cliente in ambito GDO che seguivo già
 
     * Per la gestione dei ticket di AM ho sviluppato una webapp full stack javascript, e per l'acquisizione del flusso degli scontrini in arrivo dai punti vendita ho progettato un set di webservice su Nodejs , con l'utilizzo di un buffer MongoDB per la traduzione dei dati da documenti JSON ed il trasporto sul DWH Oracle finale. 
     * Negli ultimi anni ho implementato un sistema di gestione del codice sorgente basato su git/github, ho introdotto l'utilizzo di container docker ed ho proposto l'utilizzo di cluster kubernetes per la gestione dei webservices degli scontrini.
+    * Ho avviato la migrazione dell'interfaccia web del sistema di integrazione ELT custom DWMS, da una piattaforma Jsp ad una fullstack javascript ExtJs/nodejs
 
 :   In Binnovation ho seguito anche attività relative ad altri clienti nei seguenti ambiti
 
@@ -83,8 +84,8 @@ Ho continuato a seguire principalmente il cliente in ambito GDO che seguivo già
 
 :   Ho lavorato in PIC da Ottobre 2000 ad Agosto 2005, prima come programmatore junior e successivamente come Analista Programmatore, allocato su diversi clienti principalmente in ambiti telecom, energy, e bancario, occupandomi di attività di sviluppo software utilizzando linguaggi C/C++/PLSql su applicazioni client-server prima e web poi (in C# ed ASP.NET)
 
-Technical Experience
---------------------
+Esperienza Tecnica
+------------------
 
 Database
 :   Buone capacità di configurazione ed utilizzo dei seguenti database
@@ -128,7 +129,7 @@ con utilizzo degli strumenti **Webi**, LiveOffice, Lumira, Desktop Intelligence,
 :   Conoscenza delle piattaforme **Microstrategy** e **PowerBI**
 
 
-Programming Languages
+Linguaggi di Programmazione
 :   **PL/SQL**: Ottima conoscenza ambiente Oracle (da v.9.2 – 10g – 11g – 12c, in poi) con capacità avanzata di analisi ed ottimizzazione computazionale delle query. 
 
 :   **T-SQL**: Ottima conoscenza piattaforma SqlServer (da v.2008r2 in poi).
@@ -188,7 +189,7 @@ Altre competenze
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
-Courses and certifications
+Corsi e Certificazioni
 --------------------------
 
 Binnovation
@@ -197,6 +198,7 @@ Binnovation
 * 01/2024 - Anypoint Platform Development: Production-Ready Development Practices - c/o  Salesforce (in inglese)
 * 12/2023 - Anypoint Platform Development: API Design with RAML - c/o  Salesforce (in inglese)
 * 11/2023 - Anypoint Platform Development: DataWeave - c/o  Salesforce (in inglese)
+* 08/2023 - Introduzione agli aspetti avanzati di PowerBI
 * 03/2023 - Anypoint Platform Development: Fundamentals - c/o  Salesforce (in inglese)
 * 12/2022 - gRPC MasterClass Build Modern API and Microservices in Nodejs
 * 09/2022 - Microsoft Educator Center - Introduzione al controllo della versione con Git
@@ -234,25 +236,25 @@ Softquattro
 * 03/2012 - Corso introduttivo alla tecnologia SSIS (per SqlServer 2005) 
 * 12/2008 - Corso introduttivo su Business Objects XI r.2 
 
-Organizational Skills
----------------------
+Capacità Organizzative
+----------------------
 
 -  Nel corso degli anni ho maturato 
 
     * una buona esperienza nella gestione dei progetti nel rispetto delle tempistiche e delle specifiche di consegna. 
     * ottima capacità organizzativa e ottima propensione al Problem Solving, consolidata in anni di esperienza nel coordinamento di risorse impiegate nella gestione delle attività di AM per il principale cliente in ambito GDO. 
-    * forte predisposizione all’apprendimento in autonomia, quando vi sono le risorse disponibili in rete
+    * forte predisposizione all’apprendimento in autonomia
     * forte predisposizione al prototyping in relazione alle nuove tecnologie esplorate
 
 Personal Skills
 ---------------
 
-Languages
+Lingue
 :   Italiano (lingua madre)
 :   Francese (liv.B1)
 :   Inglese (liv.A2)
 
-Interests:
+Interessi:
 :   Cerco di tenermi aggiornato costantemente sulle ultime tecnologie HW & SW, sempre alla ricerca di attività stimolanti, seguendo diversi blog e strumenti di aggiornamento, quali
 
     * [Medium]
@@ -275,7 +277,12 @@ Interests:
 [Tecnology Radar]: https://www.thoughtworks.com/radar
 [Tom's HW]: https://www.tomshw.it/
 
+
+
 ----
+
+- Autorizzo il trattamento dei dati personali come da D.Lgs 196 del 30/06/2003 e GDPR n° 679/2016
 
 > <maxmodena@hotmail.com> • +39 349 16 35 304 • \
 > Via dei Salici 4, 20090 Cesano Boscone, Milano
+
