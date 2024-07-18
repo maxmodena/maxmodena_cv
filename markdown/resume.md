@@ -15,13 +15,14 @@ Milano                                       +39.349.16.35.304
 >  Project Coordinator || 
 >  BI Specialist & DWH Architect || 
 >  Mulesoft Developer & Architect || 
->  FullStack Javascript Architect
+>  FullStack Javascript Architect ||
+>  Boomi Associate & Professional Linux Administrator certified
 
 **Business Intelligence**\
 Mi occupo principalmente dello sviluppo e gestione di progetti di BI sia per la parte di reportistica (principalmente SAP BO 4.2; Qlikview 11.2 e 12, saltuariamente PowerBI e MicroStrategy), sia per la progettazione di Datawarehouse e Sistemi di Integrazione in ambiente Oracle, SqlServer o Vertica, sia per l'installazione e configurazione di Qlikview Server/Publisher 11.2 . 
 Possiedo ottime capacità di individuazione, analisi e risoluzione delle criticità tecniche ed architetturali, ed ottime conoscenze dei principali RDBMS Sql (Oracle11g-21c/SqlServer) e NoSql (MongoDB); 
 
-Utilizzo le piattaforme di integrazione SSIS, Semarchy xDI e Mulesoft Anypoint Platform; ho avuto anche l'occasione di valutare ed esplorare Talend Data Integration ed Alterix Designer. Oltre a queste utilizziamo una nostra piattaforma di integrazione e schedulazione di tipo ELT che effettua le trasformazioni personalizzandole su Oracle o SqlServer in PL/SQL o T-SQL massimizzando le prestazioni ottenibili.
+Utilizzo le piattaforme di integrazione SSIS, Semarchy xDI, Mulesoft Anypoint Platform e Boomi; ho avuto anche l'occasione di valutare ed esplorare Talend Data Integration ed Alterix Designer. Oltre a queste utilizziamo una nostra piattaforma di integrazione e schedulazione di tipo ELT che effettua le trasformazioni personalizzandole su Oracle o SqlServer in PL/SQL o T-SQL massimizzando le prestazioni ottenibili. Sono Boomi Administrator certificato sia come Associated Administrator che Professional Linux Operational Administrator.
 
 Utilizzo correntemente Git/GitHub per il versioning delle implementazioni dei progetti gestiti in prima persona, e TFS qualora già utilizzato dai clienti.
 
@@ -104,6 +105,7 @@ Sistemi di integrazione dati
     *	**SSIS** (Microsoft TSQL) - Utilizzo della piattaforma SSIS 2005-2016 per la costruzione di sistemi ETL.
     *	**Stambia - Semarchy XDi** (Java – Javascript): Utilizzo di Stambia Developer per la progettazione di flussi ELT di integrazione dati, configurazione e schedulazione dei flussi con Stambia Analytics.
     *   **Mulesoft Anypoint Platform**: utilizzo della piattaforma di integrazione **API** tramite **Anypoint Studio**
+    *   **Boomi**: utilizzo della piattaforma di integrazione **Boomi**, compresa l'installazione e l'amministrazione di Atom o Molecules locali in ambiente Linux.
 
 :   Utilizzo di
 
@@ -194,6 +196,8 @@ Corsi e Certificazioni
 
 Binnovation
 :   
+* 07/2024 - Boomi Administrator 2 - Linux: **Certified Boomi Professional Linux Operational Administrator**
+* 06/2024 - Boomi Associate Administration: **Certified Boomi Associate Administrator**
 * 02/2024 - Anypoint Platform Development: Production-Ready Integrations - c/o  Salesforce (in inglese)
 * 01/2024 - Anypoint Platform Development: Production-Ready Development Practices - c/o  Salesforce (in inglese)
 * 12/2023 - Anypoint Platform Development: API Design with RAML - c/o  Salesforce (in inglese)
@@ -268,9 +272,10 @@ Interessi:
     *   Utilizzo del protocollo gRPC per la comunicazione tra microservizi nodejs
     *   Automazione testing pl/sql con utPlSql
     *   Analisi di un cluster iperconvergente con Proxmox VE
-    *   Esplorazione del sistema di integrazione API Boomi
     *   Linguaggio documentale di markdown per GitHub e Mulesoft
     *   Linguaggi di formattazione documenti LaTeX, TeX
+    *   Esplorazione del framework Apache Spark in relazione ai DataLakeHouse
+    *   Analisi di DuckDB come in-process OLAP RDBMS
 
 [Medium]: https://medium.com/
 [InfoQ]: https://infoq.com
