@@ -297,5 +297,5 @@ Interessi:
 - Autorizzo il trattamento dei dati personali come da D.Lgs 196 del 30/06/2003 e GDPR n° 679/2016
 
 > <maxmodena@hotmail.com> • +39 349 16 35 304 • \
-> Via dei Salici 4, 20090 Cesano Boscone, Milano
+> Via delle Acacie 1, 20090 Cesano Boscone, Milano
 
