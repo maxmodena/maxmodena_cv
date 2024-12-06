@@ -131,7 +131,6 @@ with use of **Webi**, LiveOffice, Lumira, Desktop Intelligence, InfoView, **Desi
 
 
 Programming Languages
----------------------
 :   **PL/SQL**: Excellent knowledge of the Oracle environment (from v.9.2 – 10g – 11g – 12c, and later) with advanced query analysis and optimization skills.
 
 :   **T-SQL**: Excellent knowledge of the SqlServer platform (from v.2008r2 onwards).
@@ -157,7 +156,6 @@ Programming Languages
 
 
 Development Environments
-------------------------
 :   I currently work with Unix, Windows (desktop or server), and Linux environments.
 
 :   I have gained experience in managing and configuring Windows servers (from 2008r2 onwards) and the related Hyper-V Manager for the creation and deployment of virtualized infrastructure, with the configuration of an Active Directory domain services infrastructure using Windows Server 2003 and 2008r2, personally managing the virtualization environment used for centralized development activities for some clients using multiuser VMs in RDP with various software development tools.
@@ -165,7 +163,6 @@ Development Environments
 :   I have knowledge of virtualization environments such as **VMWare ESXi** and **Proxmox VE**.
 
 Data Warehouse Design
----------------------
 :   Excellent knowledge of design and sizing methodologies for data warehouses on Oracle or SqlServer platforms, with years of experience in the GDO, Retail, Insurance, Banking, and Financial Services sectors.
 
 :   I have experience designing Data Warehouses using the following models:
@@ -174,7 +171,6 @@ Data Warehouse Design
     * **Data Vault 2.0**
 
 DevOps Infrastructure and Methodologies
----------------------------------------
 :   I have gained DevOps skills by designing an environment based on:
 
     *   Installation, configuration, and implementation of **Docker** containers, including **docker-compose**
@@ -186,7 +182,6 @@ DevOps Infrastructure and Methodologies
     *   Experience with **TFS** as a source control management tool in client environments
 
 Other Skills
-------------
 :   I have advanced knowledge of AJAX technology (Rich Web Applications) and the **ExtJs** frameworks v.3.4, v.4.2, and later, as well as **Ext.NET** (ExtJs v4.2 on .NET 4), with the creation of a custom JavaScript framework to be used standalone or alongside ExtJs.
 
 :   I have advanced knowledge of the **NodeJs** runtime system, which I use regularly, the **React** library, and the Microservices technology based on Docker containers.
@@ -199,8 +194,9 @@ Other Skills
 
 Courses and Certifications
 --------------------------
+
 Binnovation
-:
+:   
 * 10/2024 - Talend Data Integration / Integration Administration / Cloud Administration
 * 07/2024 - Boomi Administrator 2 - Linux: **Certified Boomi Professional Linux Operational Administrator**
 * 06/2024 - Boomi Associate Administration: **Certified Boomi Associate Administrator**
