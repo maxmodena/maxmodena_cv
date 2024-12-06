@@ -4,7 +4,7 @@ Massimiliano Modena
 ----
 
 -------------------         ----------------------------------
-Via dei Salici 4,                        maxmodena@hotmail.com
+Via delle Acacie 1,                      maxmodena@hotmail.com
 20090, Cesano Boscone       
 Milano                                       +39.349.16.35.304
 -------------------         ----------------------------------
@@ -15,14 +15,15 @@ Milano                                       +39.349.16.35.304
 >  Project Coordinator || 
 >  BI Specialist & DWH Architect || 
 >  Mulesoft Developer & Architect || 
+>  Talend Cloud Developer & Admin ||
 >  FullStack Javascript Architect ||
 >  Boomi Associate & Professional Linux Administrator certified
 
 **Business Intelligence**\
 Mi occupo principalmente dello sviluppo e gestione di progetti di BI sia per la parte di reportistica (principalmente SAP BO 4.2; Qlikview 11.2 e 12, saltuariamente PowerBI e MicroStrategy), sia per la progettazione di Datawarehouse e Sistemi di Integrazione in ambiente Oracle, SqlServer o Vertica, sia per l'installazione e configurazione di Qlikview Server/Publisher 11.2 . 
-Possiedo ottime capacità di individuazione, analisi e risoluzione delle criticità tecniche ed architetturali, ed ottime conoscenze dei principali RDBMS Sql (Oracle11g-21c/SqlServer) e NoSql (MongoDB); 
+Possiedo ottime capacità di individuazione, analisi e risoluzione delle criticità tecniche ed architetturali, ed ottime conoscenze dei principali RDBMS Sql (Oracle11g-21c/SqlServer/DuckDB) e NoSql (MongoDB); 
 
-Utilizzo le piattaforme di integrazione SSIS, Semarchy xDI, Mulesoft Anypoint Platform e Boomi; ho avuto anche l'occasione di valutare ed esplorare Talend Data Integration ed Alterix Designer. Oltre a queste utilizziamo una nostra piattaforma di integrazione e schedulazione di tipo ELT che effettua le trasformazioni personalizzandole su Oracle o SqlServer in PL/SQL o T-SQL massimizzando le prestazioni ottenibili. Sono Boomi Administrator certificato sia come Associated Administrator che Professional Linux Operational Administrator.
+Utilizzo le piattaforme di integrazione SSIS, Semarchy xDI, Talend Cloud, Mulesoft Anypoint Platform e Boomi; ho avuto anche l'occasione di valutare ed esplorare Alterix Designer. Oltre a queste utilizziamo una nostra piattaforma di integrazione e schedulazione di tipo ELT che effettua le trasformazioni personalizzandole su Oracle o SqlServer in PL/SQL o T-SQL massimizzando le prestazioni ottenibili. Sono Boomi Administrator certificato sia come Associated Administrator che Professional Linux Operational Administrator.
 
 Utilizzo correntemente Git/GitHub per il versioning delle implementazioni dei progetti gestiti in prima persona, e TFS qualora già utilizzato dai clienti.
 
@@ -99,6 +100,8 @@ Database
 
 :   Cononscenza ed utilizzo del db **Vertica** (da v.9 in poi) e **MySql** 
 
+:   Conoscenza ed utilizzo del db analitico embedded DuckDB
+
 Sistemi di integrazione dati
 :   Buona conoscenza dei seguenti sistemi di integrazione dati
 
@@ -106,11 +109,12 @@ Sistemi di integrazione dati
     *	**Stambia - Semarchy XDi** (Java – Javascript): Utilizzo di Stambia Developer per la progettazione di flussi ELT di integrazione dati, configurazione e schedulazione dei flussi con Stambia Analytics.
     *   **Mulesoft Anypoint Platform**: utilizzo della piattaforma di integrazione **API** tramite **Anypoint Studio**
     *   **Boomi**: utilizzo della piattaforma di integrazione **Boomi**, compresa l'installazione e l'amministrazione di Atom o Molecules locali in ambiente Linux.
+    *   **Talend Cloud** – Utilizzo di Talend Studio per la progettazione di flussi ETL di integrazione dati con pubblicazione cloud su Talend Management Console
 
 :   Utilizzo di
 
-    *   **Talend** (Java) – Utilizzo di Talend Open Studio per la progettazione di semplici flussi ETL di integrazione dati
     *   **Alterix** - Utilizzo di Alterix Designer per la progettazione di semplici flussi ETL di integrazione dati
+    *   **dbt** - Utilizzo di Data Build Tool Core per la definizione di semplici pipeline di trasformazione dati in abbinamento a DuckDB
 
 Piattaforme di reportistica ed analisi dei dati
 :   Conoscenza avanzata della piattaforma **Qlikview**.
@@ -138,6 +142,10 @@ Linguaggi di Programmazione
 
 :   **Javascript**: Ottima conoscenza del linguaggio, utilizzato sia in backend su **NodeJs** che in frontend come **Vanilla Javascript** o tramite il framework **ExtJs** per la progettazione di web applications
 
+:   **Python**: Utilizzo nelle pipeline di integrazione dati in abbinamento a dbt e DuckDB
+
+:   **Java & JSP**: Utilizzo connettori jsp/beans come elemento di raccordo nelle webapp legacy tra client javascript e business logic in pl/sql su piattaforma Apache Tomcat
+
 :   Nel corso della mia carriera lavorativa ho utilizzato anche questi linguaggi 
 
     * PHP
@@ -150,7 +158,6 @@ Linguaggi di Programmazione
     * C# (.NET)
     * Korn shell script
     * MS VisualC++ (MFC)
-    * Java & JSP
 
 
 Ambienti di sviluppo
@@ -195,7 +202,8 @@ Corsi e Certificazioni
 --------------------------
 
 Binnovation
-:   
+:
+* 10/2024 - Talend Data Integration / Integration Administration / Cloud Administration 
 * 07/2024 - Boomi Administrator 2 - Linux: **Certified Boomi Professional Linux Operational Administrator**
 * 06/2024 - Boomi Associate Administration: **Certified Boomi Associate Administrator**
 * 02/2024 - Anypoint Platform Development: Production-Ready Integrations - c/o  Salesforce (in inglese)
