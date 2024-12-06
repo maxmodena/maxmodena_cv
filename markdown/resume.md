@@ -130,8 +130,6 @@ with use of **Webi**, LiveOffice, Lumira, Desktop Intelligence, InfoView, **Desi
 :   Knowledge of **Microstrategy** and **PowerBI** platforms
 
 
-Ecco la traduzione in inglese con il codice raw del markdown:
-
 Programming Languages
 ---------------------
 :   **PL/SQL**: Excellent knowledge of the Oracle environment (from v.9.2 – 10g – 11g – 12c, and later) with advanced query analysis and optimization skills.
@@ -286,9 +284,7 @@ Interests:
 [Medium]: https://medium.com/
 [InfoQ]: https://infoq.com
 [Technology Radar]: https://www.thoughtworks.com/radar
-[Tom's HW]: https://www.tomsh
-
-w.it/
+[Tom's HW]: https://www.tomshw.it/
 
 ----
 
