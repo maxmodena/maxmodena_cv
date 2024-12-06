@@ -202,7 +202,7 @@ Corsi e Certificazioni
 --------------------------
 
 Binnovation
-:
+:   
 * 10/2024 - Talend Data Integration / Integration Administration / Cloud Administration 
 * 07/2024 - Boomi Administrator 2 - Linux: **Certified Boomi Professional Linux Operational Administrator**
 * 06/2024 - Boomi Associate Administration: **Certified Boomi Associate Administrator**
