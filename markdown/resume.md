@@ -43,11 +43,11 @@ Education
 ----------
 
 1990-1998   
-:   **Degree in Electronic Engineering – Microelectronics specialization**; Politecnico di Milano – Faculty of Engineering
+:   **Study in Electronic Engineering – Microelectronics specialization**; Politecnico di Milano – Faculty of Engineering
 
 
 1985-1990
-:   **High School Diploma in Science**; Liceo Scientifico G.B.Vico – 20094 Corsico – Milano
+:   **Italian Scientific High School**; Liceo Scientifico G.B.Vico – 20094 Corsico – Milano
 
 
 Work Experience
