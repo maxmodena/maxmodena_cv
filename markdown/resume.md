@@ -19,7 +19,7 @@ Milano                                       +39.349.16.35.304
 **Profilo Professionale**
 
 
-Specialista **PL/SQL ETL Developer** e **Performance Tuning Specialist** con oltre 15 anni di esperienza nella progettazione e nell'implementazione di Data Warehouse e sistemi di integrazione dati in ambiente Oracle. Ho maturato competenze approfondite nella **progettazione di architetture ETL**, nello sviluppo di **procedure PL/SQL ad alte prestazioni** e nell'**ottimizzazione di processi di integrazione e query complesse su database Oracle**.
+**PL/SQL ETL Developer** e **Performance Tuning Specialist** con oltre 15 anni di esperienza nella progettazione e nell'implementazione di Data Warehouse e sistemi di integrazione dati in ambiente Oracle. Ho maturato competenze approfondite nella **progettazione di architetture ETL**, nello sviluppo di **procedure PL/SQL ad alte prestazioni** e nell'**ottimizzazione di processi di integrazione e query complesse su database Oracle**.
 
 Mi concentro sull'**ottimizzazione** delle prestazioni e sulla gestione efficiente di grandi volumi di dati, garantendo **scalabilità, affidabilità** e qualità del dato. Sono in grado di **analizzare, progettare e sviluppare** soluzioni di integrazione completa, collaborando con team multidisciplinari per trasformare requisiti complessi in soluzioni performanti e orientate al business.
 
