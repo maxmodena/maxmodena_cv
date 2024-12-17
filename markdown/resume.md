@@ -11,7 +11,7 @@ Milano                                       +39.349.16.35.304
 
 ----
 
->  Senior Consultant @BInnovation || 
+>  Data Engineer @BInnovation || 
 >  Project Coordinator || 
 >  BI Specialist & DWH Architect || 
 >  PLSQL ETL Developer & Performance Tuning Specialist
