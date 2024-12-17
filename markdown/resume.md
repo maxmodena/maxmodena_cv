@@ -16,13 +16,16 @@ Milano                                       +39.349.16.35.304
 >  BI Specialist & DWH Architect || 
 >  PLSQL ETL Developer & Performance Tuning Specialist
 
-**Profilo Professionale**\
-Specialista **PL/SQL ETL Developer** e **Performance Tuning Specialist** con oltre 15 anni di esperienza nella progettazione e nell'implementazione di Data Warehouse e sistemi di integrazione dati in ambiente Oracle. Ho maturato competenze approfondite nella **progettazione di architetture ETL** , nello sviluppo di **procedure PL/SQL ad alte prestazioni** e nell'**ottimizzazione di processi di integrazione e query complesse su database Oracle**.
-
-Mi concentro sull'**ottimizzazione** delle prestazioni e sulla gestione efficiente di grandi volumi di dati, garantendo **scalabilità , affidabilità** e qualità del dato. Sono in grado di **analizzare , progettare e sviluppare** soluzioni di integrazione completa, collaborando con team multidisciplinari per trasformare requisiti complessi in soluzioni performanti e orientate al business.
+**Profilo Professionale**
 
 
-**Competenze Chiave**\
+Specialista **PL/SQL ETL Developer** e **Performance Tuning Specialist** con oltre 15 anni di esperienza nella progettazione e nell'implementazione di Data Warehouse e sistemi di integrazione dati in ambiente Oracle. Ho maturato competenze approfondite nella **progettazione di architetture ETL**, nello sviluppo di **procedure PL/SQL ad alte prestazioni** e nell'**ottimizzazione di processi di integrazione e query complesse su database Oracle**.
+
+Mi concentro sull'**ottimizzazione** delle prestazioni e sulla gestione efficiente di grandi volumi di dati, garantendo **scalabilità, affidabilità** e qualità del dato. Sono in grado di **analizzare, progettare e sviluppare** soluzioni di integrazione completa, collaborando con team multidisciplinari per trasformare requisiti complessi in soluzioni performanti e orientate al business.
+
+
+
+**Competenze Chiave**
 
    *	Progettazione e sviluppo di Data Warehouse in ambiente Oracle.
    *	Implementazione di processi ETL complessi e ottimizzati.
@@ -30,7 +33,7 @@ Mi concentro sull'**ottimizzazione** delle prestazioni e sulla gestione efficien
    *	Gestione di grandi volumi di dati con attenzione all'efficienza e all'affidabilità .
    *	Ottimizzazione delle risorse Oracle e ottimizzazione dei database.
    *	Documentazione e gestione dei flussi di dati end-to-end.
-----
+
 
 
 
@@ -49,7 +52,7 @@ Esperienza Lavorativa
 ---------------------
 
 2018-2024 (in corso)  
-:   **Senior Consultant & Project coordinator @Binnovation**
+:   **Data Engineer & Project coordinator @Binnovation**
 
 :   A seguito della confluenza di Softquattro in Binnovation collaboro da Marzo 2018 con quest'ultima come **Data Engineer** in ambito BI/DWH.
 Ho continuato a seguire principalmente il cliente in ambito GDO che seguivo già in Softquattro, gestendo le attività legate all' AM e quelle legate ai progetti di evolutiva dei Datawarehouse su piattaforma Oracle lungo tutta la filiera, dalla preparazione delle offerte all'analisi funzionale e tecnica fino alle implementazioni ed ai rilasci finali. 
