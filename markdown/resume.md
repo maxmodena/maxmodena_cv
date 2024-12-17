@@ -14,29 +14,22 @@ Milano                                       +39.349.16.35.304
 >  Senior Consultant @BInnovation || 
 >  Project Coordinator || 
 >  BI Specialist & DWH Architect || 
->  Mulesoft Developer & Architect || 
->  Talend Cloud Developer & Admin ||
->  FullStack Javascript Architect ||
->  Boomi Associate & Professional Linux Administrator certified
+>  PLSQL ETL Developer & Performance Tuning Specialist
 
-**Business Intelligence**\
-Mi occupo principalmente dello sviluppo e gestione di progetti di BI sia per la parte di reportistica (principalmente SAP BO 4.2; Qlikview 11.2 e 12, saltuariamente PowerBI e MicroStrategy), sia per la progettazione di Datawarehouse e Sistemi di Integrazione in ambiente Oracle, SqlServer o Vertica, sia per l'installazione e configurazione di Qlikview Server/Publisher 11.2 . 
-Possiedo ottime capacità di individuazione, analisi e risoluzione delle criticità tecniche ed architetturali, ed ottime conoscenze dei principali RDBMS Sql (Oracle11g-21c/SqlServer/DuckDB) e NoSql (MongoDB); 
+**Profilo Professionale**\
+Specialista **PL/SQL ETL Developer** e **Performance Tuning Specialist** con oltre 15 anni di esperienza nella progettazione e nell'implementazione di Data Warehouse e sistemi di integrazione dati in ambiente Oracle. Ho maturato competenze approfondite nella **progettazione di architetture ETL** , nello sviluppo di **procedure PL/SQL ad alte prestazioni** e nell'**ottimizzazione di processi di integrazione e query complesse su database Oracle**.
 
-Utilizzo le piattaforme di integrazione SSIS, Semarchy xDI, Talend Cloud, Mulesoft Anypoint Platform e Boomi; ho avuto anche l'occasione di valutare ed esplorare Alterix Designer. Oltre a queste utilizziamo una nostra piattaforma di integrazione e schedulazione di tipo ELT che effettua le trasformazioni personalizzandole su Oracle o SqlServer in PL/SQL o T-SQL massimizzando le prestazioni ottenibili. Sono Boomi Administrator certificato sia come Associated Administrator che Professional Linux Operational Administrator.
-
-Utilizzo correntemente Git/GitHub per il versioning delle implementazioni dei progetti gestiti in prima persona, e TFS qualora già utilizzato dai clienti.
-
-**Full Stack Web Architect**\
-Ho esperienza più che decennale di progettazione architetturale ed implementazione di web applications su framework ExtJS con diversi back-end. Ho utilizzato negli anni diversi linguaggi, tra cui php, jsp, c# e javascript insieme a diversi db, anche documentali, tra cui Oracle, SqlServer, SqlLite e MongoDB. Utilizzo attualmente una struttura full stack javascript con backend Nodejs, anche in architettura a microservizi.
-Interesse corrente: utilizzo del framework gRPC per la comunicazione tra microservizi nodejs in architettura basata su API Gateway ed autenticazione/autorizzazioni con token JWT.
-
-**DevOps**\
-Ho buone conoscenze di virtualizzazione di nodi Linux o Windows, ed esperienza di progettazione di Docker Containers gestiti con Docker-Compose e di Cluster Kubernetes su più nodi virtuali Linux. Ho progettato un cluster Microk8s in HA su nodi virtuali Ubuntu, con configurazione di  MongoDB in Sharding/ReplicaSet sul cluster k8s, utilizzato per l'implementazione e configurazione di applicazioni su pod in autoscaling composti internamente da container multipli. 
-Utilizzo correntemente db Oracle19c e 23c rilasciati su Docker. 
-Ho implementato alcune pipelines di CI/CD (per apps containerizzate) con GitHub Actions ed ArgoCD, ed una pipeline di CD relativa ad attività plsql/oracle su Jenkins per il rilascio automatico in ambiente di sviluppo/integrazione tramite webhook.
+Mi concentro sull'**ottimizzazione** delle prestazioni e sulla gestione efficiente di grandi volumi di dati, garantendo **scalabilità , affidabilità** e qualità del dato. Sono in grado di **analizzare , progettare e sviluppare** soluzioni di integrazione completa, collaborando con team multidisciplinari per trasformare requisiti complessi in soluzioni performanti e orientate al business.
 
 
+**Competenze Chiave**\
+
+   *	Progettazione e sviluppo di Data Warehouse in ambiente Oracle.
+   *	Implementazione di processi ETL complessi e ottimizzati.
+   *	Ottimizzazione delle prestazioni di query e procedure PL/SQL.
+   *	Gestione di grandi volumi di dati con attenzione all'efficienza e all'affidabilità .
+   *	Ottimizzazione delle risorse Oracle e ottimizzazione dei database.
+   *	Documentazione e gestione dei flussi di dati end-to-end.
 ----
 
 
@@ -58,8 +51,8 @@ Esperienza Lavorativa
 2018-2024 (in corso)  
 :   **Senior Consultant & Project coordinator @Binnovation**
 
-:   A seguito della confluenza di Softquattro in Binnovation collaboro da Marzo 2018 con quest'ultima come Consulente Senior in ambito BI.
-Ho continuato a seguire principalmente il cliente in ambito GDO che seguivo già in Softquattro, gestendo le attività legate all' AM e quelle legate ai progetti di evolutiva lungo tutta la filiera, dalla preparazione delle offerte all'analisi funzionale e tecnica fino alle implementazioni ed ai rilasci finali. 
+:   A seguito della confluenza di Softquattro in Binnovation collaboro da Marzo 2018 con quest'ultima come **Data Engineer** in ambito BI/DWH.
+Ho continuato a seguire principalmente il cliente in ambito GDO che seguivo già in Softquattro, gestendo le attività legate all' AM e quelle legate ai progetti di evolutiva dei Datawarehouse su piattaforma Oracle lungo tutta la filiera, dalla preparazione delle offerte all'analisi funzionale e tecnica fino alle implementazioni ed ai rilasci finali. 
 
     * Per la gestione dei ticket di AM ho sviluppato una webapp full stack javascript, e per l'acquisizione del flusso degli scontrini in arrivo dai punti vendita ho progettato un set di webservice su Nodejs , con l'utilizzo di un buffer MongoDB per la traduzione dei dati da documenti JSON ed il trasporto sul DWH Oracle finale. 
     * Negli ultimi anni ho implementato un sistema di gestione del codice sorgente basato su git/github, ho introdotto l'utilizzo di container docker ed ho proposto l'utilizzo di cluster kubernetes per la gestione dei webservices degli scontrini.
@@ -136,7 +129,7 @@ con utilizzo degli strumenti **Webi**, LiveOffice, Lumira, Desktop Intelligence,
 
 
 Linguaggi di Programmazione
-:   **PL/SQL**: Ottima conoscenza ambiente Oracle (da v.9.2 – 10g – 11g – 12c, in poi) con capacità avanzata di analisi ed ottimizzazione computazionale delle query. 
+:   **PL/SQL**: Ottima conoscenza ambiente Oracle (da v.9.2 – 10g – 11g – 12c, in poi) con **capacità avanzata di analisi ed ottimizzazione computazionale delle query**. 
 
 :   **T-SQL**: Ottima conoscenza piattaforma SqlServer (da v.2008r2 in poi).
 
@@ -203,7 +196,7 @@ Corsi e Certificazioni
 
 Binnovation
 :   
-* 10/2024 - Talend Data Integration / Integration Administration / Cloud Administration 
+* 10/2024 - Aggiornamento Talend Data Integration / Integration Administration / Cloud Administration 
 * 07/2024 - Boomi Administrator 2 - Linux: **Certified Boomi Professional Linux Operational Administrator**
 * 06/2024 - Boomi Associate Administration: **Certified Boomi Associate Administrator**
 * 02/2024 - Anypoint Platform Development: Production-Ready Integrations - c/o  Salesforce (in inglese)
@@ -219,7 +212,7 @@ Binnovation
 * 03/2022 - Mongodb University - M103 Basic Cluster Administration
 * 02/2022 - Mongodb University - M100 MongoDB for SQL Pros
 * 01/2022 - Mongodb University - M001 MongoDB Basics
-* 06/2021 - Talend data integration course beginner to expert 
+* 06/2021 - Talend Data Integration - course beginner to expert 
 * 09/2020 - Stambia Developer & Analytics 
 * 04/2020 - Microstrategy - Corso 11.411 Project Architecting
 * 08/2019 - Microstrategy - Corso 11.121 Overview of Enterprise Mobility
@@ -246,6 +239,7 @@ Softquattro
 * 09/2012 - QlikView Developer 1 
 * 09/2012 - QlikView Developer 2 
 * 03/2012 - Corso introduttivo alla tecnologia SSIS (per SqlServer 2005) 
+* 01/2010 - Corso specialistico sul Performace Tuning PL/SQL
 * 12/2008 - Corso introduttivo su Business Objects XI r.2 
 
 Capacità Organizzative
