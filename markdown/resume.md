@@ -36,7 +36,11 @@ Ho buone conoscenze di virtualizzazione di nodi Linux o Windows, ed esperienza d
 Utilizzo correntemente db Oracle19c e 23c rilasciati su Docker. 
 Ho implementato alcune pipelines di CI/CD (per apps containerizzate) con GitHub Actions ed ArgoCD, ed una pipeline di CD relativa ad attività plsql/oracle su Jenkins per il rilascio automatico in ambiente di sviluppo/integrazione tramite webhook.
 
-
+**Focus tecnologico attuale**\
+Sto analizzando le seguenti tecnologie per integrare le mie competenze in questi ambiti:
+- utilizzo di Apache Spark tramite pyspark, con o senza tabelle Apache Iceberg
+- analisi delle pipelines di integrazione in dbt
+- analisi dell'ambiente Snowflake 
 ----
 
 
