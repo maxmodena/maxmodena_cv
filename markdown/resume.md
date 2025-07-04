@@ -38,6 +38,8 @@ Ho implementato alcune pipelines di CI/CD (per apps containerizzate) con GitHub 
 
 **Focus tecnologico attuale**\
 Sto analizzando le seguenti tecnologie per integrare le mie competenze in questi ambiti:
+- utilizzo di Ducklake (Data Lakehouse ad alte prestazioni, alternativo ad Iceberg, con catalogo su db postgres e dati su filesystem o bucket S3/minio)
+- utilizzo del server gizmosql per l'accesso a Ducklake con connettività ad alta efficienza Arrow Flight Sql
 - utilizzo di Apache Spark tramite pyspark, con o senza tabelle Apache Iceberg
 - analisi delle pipelines di integrazione in dbt
 - analisi dell'ambiente Snowflake 
@@ -59,7 +61,7 @@ Educazione
 Esperienza Lavorativa
 ---------------------
 
-2018-2024 (in corso)  
+2018-2025 (in corso)  
 :   **Senior Consultant & Project coordinator @Binnovation**
 
 :   A seguito della confluenza di Softquattro in Binnovation collaboro da Marzo 2018 con quest'ultima come Consulente Senior in ambito BI.
@@ -68,6 +70,7 @@ Ho continuato a seguire principalmente il cliente in ambito GDO che seguivo già
     * Per la gestione dei ticket di AM ho sviluppato una webapp full stack javascript, e per l'acquisizione del flusso degli scontrini in arrivo dai punti vendita ho progettato un set di webservice su Nodejs , con l'utilizzo di un buffer MongoDB per la traduzione dei dati da documenti JSON ed il trasporto sul DWH Oracle finale. 
     * Negli ultimi anni ho implementato un sistema di gestione del codice sorgente basato su git/github, ho introdotto l'utilizzo di container docker ed ho proposto l'utilizzo di cluster kubernetes per la gestione dei webservices degli scontrini.
     * Ho avviato la migrazione dell'interfaccia web del sistema di integrazione ELT custom DWMS, da una piattaforma Jsp ad una fullstack javascript ExtJs/nodejs
+    * Sto esplorando nuove tecnologie da introdurre per ottimizzare la fase di acquisizione e trasformazione dei dati alimentanti il Datawarehouse
 
 :   In Binnovation ho seguito anche attività relative ad altri clienti nei seguenti ambiti
 
@@ -104,7 +107,7 @@ Database
 
 :   Cononscenza ed utilizzo del db **Vertica** (da v.9 in poi) e **MySql** 
 
-:   Conoscenza ed utilizzo del db analitico embedded DuckDB
+:   Conoscenza ed utilizzo del db analitico embedded DuckDB e del Data Lakehouse ducklake basato su Duckdb.
 
 Sistemi di integrazione dati
 :   Buona conoscenza dei seguenti sistemi di integrazione dati
@@ -171,7 +174,7 @@ Ambienti di sviluppo
 
 :   Ho conoscenze degli ambienti di virtualizzazione VMWare ESXi e Proxmox VE
 
-Progettazione Datawarehouse
+Progettazione Datawarehouse e Data Lakehouse
 :   Ottima conoscenza delle metodologie di progettazione e dimensionamento di un datawarehouse su piattaforma Oracle o SqlServer, con esperienza pluriennale in ambito GDO, Retail, Assicurativo, Banking e Servizi Finanziari
 
 :   Ho esperienza di progettazione di Datawarehouse con l'utilizzo dei modelli
@@ -280,6 +283,7 @@ Interessi:
 
 :   Progetti collaterali
 
+    *   Prototipizzazione di un Ducklake (Data Lakehouse con catalogo su db postgres e dati su bucket server s3/minio) esposto tramite server Gizmosql e connettività Arrow Flight Sql 
     *   Autenticazione ed autorizzazione app basata su JWT
     *   Utilizzo del protocollo gRPC per la comunicazione tra microservizi nodejs
     *   Automazione testing pl/sql con utPlSql
