@@ -11,33 +11,37 @@ Milano                                       +39.349.16.35.304
 
 ----
 
+>  Data Engineer ||
 >  Senior Consultant @BInnovation || 
 >  Project Coordinator || 
 >  BI Specialist & DWH Architect || 
->  Mulesoft Developer & Architect || 
 >  Talend Cloud Developer & Admin ||
 >  FullStack Javascript Architect ||
+>  Mulesoft Developer & Architect || 
 >  Boomi Associate & Professional Linux Administrator certified
 
 **Business Intelligence**\
-Mi occupo principalmente dello sviluppo e gestione di progetti di BI sia per la parte di reportistica (principalmente SAP BO 4.2; Qlikview 11.2 e 12, saltuariamente PowerBI e MicroStrategy), sia per la progettazione di Datawarehouse e Sistemi di Integrazione in ambiente Oracle, SqlServer o Vertica, sia per l'installazione e configurazione di Qlikview Server/Publisher 11.2 . 
+Mi occupo principalmente dello sviluppo e gestione di progetti di BI sia per la progettazione di Datawarehouse/Data Lakehouse e Sistemi di Integrazione in ambiente Cloud su GCP ed on-premise su Oracle, SqlServer, Vertica, DuckDB, o Starrocks, sia per la parte di reportistica (principalmente SAP BO 4.2; Qlikview 11.2 e 12, saltuariamente PowerBI e MicroStrategy), sia per l'installazione e configurazione di Qlikview Server/Publisher 11.2. 
 Possiedo ottime capacità di individuazione, analisi e risoluzione delle criticità tecniche ed architetturali, ed ottime conoscenze dei principali RDBMS Sql (Oracle11g-21c/SqlServer/DuckDB) e NoSql (MongoDB); 
 
-Utilizzo le piattaforme di integrazione SSIS, Semarchy xDI, Talend Cloud, Mulesoft Anypoint Platform e Boomi; ho avuto anche l'occasione di valutare ed esplorare Alterix Designer. Oltre a queste utilizziamo una nostra piattaforma di integrazione e schedulazione di tipo ELT che effettua le trasformazioni personalizzandole su Oracle o SqlServer in PL/SQL o T-SQL massimizzando le prestazioni ottenibili. Sono Boomi Administrator certificato sia come Associated Administrator che Professional Linux Operational Administrator.
+Utilizzo le piattaforme di integrazione Talend Cloud, SSIS, Semarchy xDI, Mulesoft Anypoint Platform e Boomi; ho avuto anche l'occasione di valutare ed esplorare Alterix Designer. Oltre a queste utilizziamo una nostra piattaforma di integrazione e schedulazione di tipo ELT che effettua le trasformazioni personalizzandole su Oracle o SqlServer in PL/SQL o T-SQL massimizzando le prestazioni ottenibili. Sono Boomi Administrator certificato sia come Associated Administrator che Professional Linux Operational Administrator.
 
 Utilizzo correntemente Git/GitHub per il versioning delle implementazioni dei progetti gestiti in prima persona, e TFS qualora già utilizzato dai clienti.
 
+Sono fortemente orientato all'innovazione con una forte passione per l'ecosistema Open Source. Specializzato nella progettazione di Proof of Concept (PoC), nella sperimentazione di tecnologie emergenti per ottimizzare le pipeline di dati e nel dimensionamento dei relativi server a seconda delle prestazioni desiderate.
+
 **Full Stack Web Architect**\
 Ho esperienza più che decennale di progettazione architetturale ed implementazione di web applications su framework ExtJS con diversi back-end. Ho utilizzato negli anni diversi linguaggi, tra cui php, jsp, c# e javascript insieme a diversi db, anche documentali, tra cui Oracle, SqlServer, SqlLite e MongoDB. Utilizzo attualmente una struttura full stack javascript con backend Nodejs, anche in architettura a microservizi.
-Interesse corrente: utilizzo del framework gRPC per la comunicazione tra microservizi nodejs in architettura basata su API Gateway ed autenticazione/autorizzazioni con token JWT.
+Ultima area di interesse in ambito full stack: utilizzo del framework gRPC per la comunicazione tra microservizi nodejs in architettura basata su API Gateway ed autenticazione/autorizzazioni con token JWT.
 
 **DevOps**\
 Ho buone conoscenze di virtualizzazione di nodi Linux o Windows, ed esperienza di progettazione di Docker Containers gestiti con Docker-Compose e di Cluster Kubernetes su più nodi virtuali Linux. Ho progettato un cluster Microk8s in HA su nodi virtuali Ubuntu, con configurazione di  MongoDB in Sharding/ReplicaSet sul cluster k8s, utilizzato per l'implementazione e configurazione di applicazioni su pod in autoscaling composti internamente da container multipli. 
-Utilizzo correntemente db Oracle19c e 23c rilasciati su Docker. 
+Utilizzo correntemente db Oracle19c e 23c rilasciati su Docker per l'elaborazione di PoC. 
 Ho implementato alcune pipelines di CI/CD (per apps containerizzate) con GitHub Actions ed ArgoCD, ed una pipeline di CD relativa ad attività plsql/oracle su Jenkins per il rilascio automatico in ambiente di sviluppo/integrazione tramite webhook.
 
 **Focus tecnologico attuale**\
 Sto analizzando le seguenti tecnologie per integrare le mie competenze in questi ambiti:
+- ingegnerizzazione e dimensionamento di un Data Lakehouse basato su repository Apache Iceberg, computation engine Starrocks, real-time ingestion RisingWave, catalogo REST Polaris, ObjectStorage MinIO oppure SeaweedJS, landing zone POSIX JuiceFS, orchestratore Prefect, pipelines Python-DuckDB
 - utilizzo di Ducklake (Data Lakehouse ad alte prestazioni, alternativo ad Iceberg, con catalogo su db postgres e dati su filesystem o bucket S3/minio)
 - utilizzo del server gizmosql per l'accesso a Ducklake con connettività ad alta efficienza Arrow Flight Sql
 - utilizzo di Apache Spark tramite pyspark, con o senza tabelle Apache Iceberg
@@ -64,19 +68,21 @@ Esperienza Lavorativa
 2018-2025 (in corso)  
 :   **Senior Consultant & Project coordinator @Binnovation**
 
-:   A seguito della confluenza di Softquattro in Binnovation collaboro da Marzo 2018 con quest'ultima come Consulente Senior in ambito BI.
+:   A seguito della confluenza di Softquattro in Binnovation collaboro da Marzo 2018 con quest'ultima come Consulente Senior e Lead Data Engineer in ambito BI.
 Ho continuato a seguire principalmente il cliente in ambito GDO che seguivo già in Softquattro, gestendo le attività legate all' AM e quelle legate ai progetti di evolutiva lungo tutta la filiera, dalla preparazione delle offerte all'analisi funzionale e tecnica fino alle implementazioni ed ai rilasci finali. 
 
-    * Per la gestione dei ticket di AM ho sviluppato una webapp full stack javascript, e per l'acquisizione del flusso degli scontrini in arrivo dai punti vendita ho progettato un set di webservice su Nodejs , con l'utilizzo di un buffer MongoDB per la traduzione dei dati da documenti JSON ed il trasporto sul DWH Oracle finale. 
-    * Negli ultimi anni ho implementato un sistema di gestione del codice sorgente basato su git/github, ho introdotto l'utilizzo di container docker ed ho proposto l'utilizzo di cluster kubernetes per la gestione dei webservices degli scontrini.
-    * Ho avviato la migrazione dell'interfaccia web del sistema di integrazione ELT custom DWMS, da una piattaforma Jsp ad una fullstack javascript ExtJs/nodejs
+    * Nel secondo semestre 2025: Ho progettato, implementato e gestito la migrazione su GCP dei webservices creati inizialmente (vedi punto successivo) per l'acquisizione dei documenti (scontrini, foglicassa, fatture clienti) effettuando l'ingestion dei documenti tramite servizio Pub/Sub e funzioni Python su un Data Lake Cloud Storage e il caricamento dei dati su Big Query, utilizzando come orchestratore Talend Cloud.
+    * In ambito cloud pongo particolare attenzione all'ottimizzazione orientata alla minimizzazione dei costi
+    * Nel primo primo semestre 2020, per la gestione dei ticket di AM ho sviluppato una webapp full stack javascript, e per l'acquisizione del flusso degli scontrini in arrivo dai punti vendita ho progettato un set di webservice su Nodejs , con l'utilizzo di un buffer MongoDB per la traduzione dei dati da documenti JSON ed il trasporto sul DWH Oracle finale. 
+    * Dal 2020 in poi ho implementato un sistema di gestione del codice sorgente basato su git/github, ho introdotto l'utilizzo di container docker ed ho proposto l'utilizzo di cluster kubernetes per la gestione dei webservices degli scontrini.
+    * Nel corso del 2019 ho avviato la migrazione dell'interfaccia web del sistema di integrazione ELT custom DWMS, da una piattaforma Jsp ad una fullstack javascript ExtJs/nodejs
     * Sto esplorando nuove tecnologie da introdurre per ottimizzare la fase di acquisizione e trasformazione dei dati alimentanti il Datawarehouse
 
 :   In Binnovation ho seguito anche attività relative ad altri clienti nei seguenti ambiti
 
-    * cliente in ambito retail, per la gestione del datawarehouse e delle attività collegate,basate su un ambiente SqlServer e SSIS 
-    * cliente in ambito GDO, per la gestione del datawarehouse dello scontrinato, implementato su db Vertica con sistema di integrazione dati basato su piattaforma Stambia Data Integration (poi nel frattempo diventata Semarchy XDi)
-    * cliente in ambito assicurativo per la gestione del repository di alimentazione di QlikSense, basato su un datawarehouse in modello DataVault 2 e datamart dimensionali, con integrazione dati tramite SSIS e TFS
+    * Cliente in ambito retail, per la gestione del datawarehouse e delle attività collegate,basate su un ambiente SqlServer e SSIS 
+    * Cliente in ambito GDO, per la gestione del datawarehouse dello scontrinato, implementato su db Vertica con sistema di integrazione dati basato su piattaforma Stambia Data Integration (poi nel frattempo diventata Semarchy XDi)
+    * Cliente in ambito assicurativo per la gestione del repository di alimentazione di QlikSense, basato su un datawarehouse in modello DataVault 2 e datamart dimensionali, con integrazione dati tramite SSIS e TFS
 
 2006-2018
 :   **Senior Analyst & Project Coordinator @Softquattro**
@@ -96,18 +102,26 @@ Ho continuato a seguire principalmente il cliente in ambito GDO che seguivo già
 Esperienza Tecnica
 ------------------
 
+Cloud 
+:   Buon conoscenza di Google Cloud Platform, nello specifico dei servizi Pub/SUb, Cloud Storage, Run Functions, BigQuery
+
+Mondo Open Source
+:   Conoscenza di: db ad alte prestazioni Starrocks, piattaforma RisingWave per l'ingestion dati in real-time, DuckDB, Apache Iceberg, object storage MinIO e SeaweedFS, file system distribuito JuiceFS POSIX-compliant, catalogo REST Polaris per Apache Iceberg
+
 Database
 :   Buone capacità di configurazione ed utilizzo dei seguenti database
 
     * **Oracle**: dalla versione 9.2 in poi, anche su container Docker o Oracle Cloud Infrastructure
     * **SqlServer**: dalla versione 2005 in poi
     * **MongoDB**: dalla versione 3.6 in poi, anche in versione cloud Atlas
+    * **PostgreSQL**: utilizzo in docker containers per attuare la persistenza dei dati in ambienti Data Lakehouse
+    * **MySQL**: utilizzato sia nel mondo web sia come protocollo di comunicazione per Starrocks
 
 :   Utilizzo corrente di **SqlLite** (v.3) come repository embedded per le web applications
 
-:   Cononscenza ed utilizzo del db **Vertica** (da v.9 in poi) e **MySql** 
+:   Cononscenza ed utilizzo del db **Vertica** (da v.9 in poi)
 
-:   Conoscenza ed utilizzo del db analitico embedded DuckDB e del Data Lakehouse ducklake basato su Duckdb.
+:   Conoscenza ed utilizzo del db analitico embedded DuckDB e del Data Lakehouse **ducklake** basato su Duckdb. Utilizzato anche come motore di trasformazione per pipeline ETL scritte in python.
 
 Sistemi di integrazione dati
 :   Buona conoscenza dei seguenti sistemi di integrazione dati
@@ -116,7 +130,7 @@ Sistemi di integrazione dati
     *	**Stambia - Semarchy XDi** (Java – Javascript): Utilizzo di Stambia Developer per la progettazione di flussi ELT di integrazione dati, configurazione e schedulazione dei flussi con Stambia Analytics.
     *   **Mulesoft Anypoint Platform**: utilizzo della piattaforma di integrazione **API** tramite **Anypoint Studio**
     *   **Boomi**: utilizzo della piattaforma di integrazione **Boomi**, compresa l'installazione e l'amministrazione di Atom o Molecules locali in ambiente Linux.
-    *   **Talend Cloud** – Utilizzo di Talend Studio per la progettazione di flussi ETL di integrazione dati con pubblicazione cloud su Talend Management Console
+    *   **Talend Cloud** – Utilizzo di Talend Studio per la progettazione di flussi ETL di integrazione dati con pubblicazione cloud su Talend Cloud Management Console
 
 :   Utilizzo di
 
@@ -147,9 +161,11 @@ Linguaggi di Programmazione
 
 :   **T-SQL**: Ottima conoscenza piattaforma SqlServer (da v.2008r2 in poi).
 
+:   **Linguaggio procedurale di BigQuery**: formalmente molto simile al T-SQL, con peculiarità vicine alla sintassi di DuckDB.
+
 :   **Javascript**: Ottima conoscenza del linguaggio, utilizzato sia in backend su **NodeJs** che in frontend come **Vanilla Javascript** o tramite il framework **ExtJs** per la progettazione di web applications
 
-:   **Python**: Utilizzo nelle pipeline di integrazione dati in abbinamento a dbt e DuckDB
+:   **Python**: Utilizzo nelle pipeline di integrazione dati in abbinamento a dbt, DuckDB, GCP ed altri strumenti open source
 
 :   **Java & JSP**: Utilizzo connettori jsp/beans come elemento di raccordo nelle webapp legacy tra client javascript e business logic in pl/sql su piattaforma Apache Tomcat
 
@@ -210,6 +226,9 @@ Corsi e Certificazioni
 
 Binnovation
 :   
+* 07/2025 - Google Cloud - Modernizing Data Lakes and Data Warehouses with Google Cloud
+* 06/2025 - Google Cloud - Introduction to Data Engineering on Google Cloud
+* 05/2025 - Google Cloud - Data Engineering Learning Path
 * 10/2024 - Talend Data Integration / Integration Administration / Cloud Administration 
 * 07/2024 - Boomi Administrator 2 - Linux: **Certified Boomi Professional Linux Operational Administrator**
 * 06/2024 - Boomi Associate Administration: **Certified Boomi Associate Administrator**
@@ -283,7 +302,8 @@ Interessi:
 
 :   Progetti collaterali
 
-    *   Prototipizzazione di un Ducklake (Data Lakehouse con catalogo su db postgres e dati su bucket server s3/minio) esposto tramite server Gizmosql e connettività Arrow Flight Sql 
+    *   Prototipazione di un Data Lakebhouse Iceberg con catalogo REST ed object storage SeaweedFS, ingestione real-time RisingWave, Engine Starrocks, pipelines python-duckdb ed orchestrazione Prefect
+    *   Prototipazione di un Ducklake (Data Lakehouse con catalogo su db postgres e dati su bucket server s3/minio) esposto tramite server Gizmosql e connettività Arrow Flight Sql 
     *   Autenticazione ed autorizzazione app basata su JWT
     *   Utilizzo del protocollo gRPC per la comunicazione tra microservizi nodejs
     *   Automazione testing pl/sql con utPlSql
